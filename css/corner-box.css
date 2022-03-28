@@ -4,7 +4,7 @@
   position: relative;
   border: 1px solid #d7b399;
   transition: all 0.3s ease;
-  margin: 20px;
+  margin: 10px;
 }
 .corner-box-1:before,
 .corner-box-1:after {
@@ -37,7 +37,7 @@
   width: 75%;
 }
 .corner-textbox-1 {
-  padding: 30px;
+  padding: 25px;
   z-index: 2;
   position: relative;
   text-align: center;
